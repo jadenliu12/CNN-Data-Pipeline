@@ -1,4 +1,4 @@
-# CNN-Data-Pipeline
+# CNN Data Pipeline
 
 The goal of this notebook is to implement the input pipeline of the CNN model and trying to write/read tfrecord using the Oregon Wildlife dataset.
 
